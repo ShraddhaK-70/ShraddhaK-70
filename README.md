@@ -78,7 +78,7 @@ Name: Kondawar Shraddha Nagesh
 
 ⭐ Thank you for visiting my GitHub profile!
 
-"Learning, building, and growing one project at a time."## Hi there 👋
+"Learning, building, and growing one project at a time.
 
 <!--
 **ShraddhaK-70/ShraddhaK-70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
